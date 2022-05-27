@@ -1,7 +1,7 @@
 # Mobile Profile on React Native (DIO)
-# Introduction to React Native
 
 # Content
+- Introdution to React Native and Mobile Development
 - Fundamentals
 - RN Origin
 - Documentation
